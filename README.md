@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Facu00H
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning HTML5, CSS, JS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JS proyects
 - 📫 How to reach me: e-mail: faisher00@gmail.com linkedn: https://www.linkedin.com/in/facundo-hernando-484917189/         
 
 <!---
