@@ -9,13 +9,11 @@
 - 🔭 I’m currently working on [User-Verificator](https://github.com/Facu00H/user-verificator)  
   
 
-- 🌱 I’m currently learning TypeScript, Webpack and SQL  
+- 🌱 I’m currently focusing in backend with express
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+   
   
 
 <br/>  
