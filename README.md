@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm Facundo, a full-stack developer 👨‍💻 constantly working on improving my skill
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/facundo-hernando-484917189/) 
 
